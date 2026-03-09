@@ -1,2 +1,4 @@
-# Holocene-Koppen-climate
-Distinct orbital and oceanic pathways drive Holocene African aridification
+# Distinct orbital and oceanic pathways drive Holocene African aridification
+
+## Abstract
+Climate zones provide intuitive frameworks for tracking long-term environmental change, yet their temporal evolution remains underexplored. Using last 6,000-year transient climate simulation, we examine Köppen climate zone shifts and identify two robust trends: polar expansion in the Northern Hemisphere and aridification in Africa. While the former is linked to reduced high-latitude insolation, the latter involves more complex monsoon dynamics. To disentangle key drivers, we conduct sensitivity experiments that separate the sea surface temperature (SST) response to orbital forcing, from the other effects of orbital forcing. Results show that the SST effect reduces African precipitation by strengthening the Asian monsoon, which alters zonal circulation rainfall in Africa. In contrast, the orbital effect alleviates the meridional temperature gradient, weakening the tropical easterly jet and further reducing African precipitation. These distinct pathways jointly explain the long-term drying of northern Africa. Our findings highlight the role of forcing pathways in shaping Holocene hydroclimate variability.
